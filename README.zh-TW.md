@@ -1,6 +1,6 @@
 <h1 align="center">vue-dashboard-template</h1>
 
-中文 | English[(./README.md)]
+中文 | [English](./README.md)
 
 ### 特色
 

@@ -1,6 +1,6 @@
 <h1 align="center">vue-dashboard-template</h1>
 
-English | [中文](./README.zh-TW.md)## Introduction
+English | [中文](./README.zh-TW.md)
 #### Characteristic function
 
 - Routing configuration, state management mechanism (State supports local storage by default), encapsulated and perfect Axios and API management mechanism suitable for middle and background development
