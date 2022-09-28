@@ -1,51 +1,6 @@
-<h1 align="center">vue-admin-box</h1>
-<p align="center">
-    <a href="https://github.com/vuejs/vue-next">
-        <img src="https://img.shields.io/badge/vue3-3.0.5-brightgreen.svg" alt="vue">
-    </a>
-    <a href="https://github.com/element-plus/element-plus">
-        <img src="https://img.shields.io/badge/elementPlus-^2.0.5-brightgreen.svg" alt="element-plus">
-    </a>
-    <a href="https://github.com/vitejs/vite">
-        <img src="https://img.shields.io/badge/vite-^2.8.6-brightgreen.svg" alt="vite">
-    </a>
-    <a href="https://github.com/microsoft/TypeScript">
-        <img src="https://img.shields.io/badge/typescript-4.1.3-brightgreen.svg" alt="typescript">
-    </a>
-    <a href="https://github.com/hsiangleev/element-plus-admin/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-    </a>
-</p>
+<h1 align="center">vue-dashboard-template</h1>
 
-English | [简体中文](./README.zh-CN.md)
-
-## summary
-
-- [update version](./VERSION.md)
-- After more than three months of iteration, version 1.0 was officially released on August 10, 2021, with four basic templates attached for everyone to use
-- This open source project is developed by individuals and does not restrict any commercial use or personal research. Please click star to encourage me before using it
-- All illegal and pornographic activities involved in this open source project have nothing to do with this source code. Please do not show yourself
-- QQ communication group：735838842，Problems are raised in the group and can be solved in time
-
-## Preview
-if you are not in China, maybe you should download the project to show the demo or use a vpn to visit the online demo.
-- [demo China](https://cmdparkour.gitee.io/vue-admin-box/)
-- [demo World](https://cmdparkour.github.io/vue-admin-box/dist/)
-- [github address](https://github.com/cmdparkour/vue-admin-box)
-- [gitee address](https://gitee.com/cmdparkour/vue-admin-box)
-- It is recommended to use yarn or cnpm for installation in China. NPM installation is prone to problems
-
-## Basic Template
-There are four basic templates, which are suitable for zero development and use, and can be found in [github](https://github.com/cmdparkour/vue-admin-box-template)、[gitee ](https://gitee.com/cmdparkour/vue-admin-box-template)View directly in the warehouse，The template is shown below:
-1. template-ts-i18n template，container ts and internationalization [demo](http://vue-admin-box-template.51weblove.com/ts-i18n/)
-2. template-ts template，container ts，internationalization is not container [demo](http://vue-admin-box-template.51weblove.com/ts)
-3. template-js-i18n template，container js and internationalization [demo](http://vue-admin-box-template.51weblove.com/js-i18n)
-4. template-js template，container js，internationalization is not container [demo](http://vue-admin-box-template.51weblove.com/js)
-
-## Introduction
-
-**vue-admin-box** is a free and open source background management system template。The latest vue-next, vite, element-plus used in this project. The purpose is to solve the complex configuration of background system in general business。
-
+English | [中文](./README.zh-TW.md)## Introduction
 #### Characteristic function
 
 - Routing configuration, state management mechanism (State supports local storage by default), encapsulated and perfect Axios and API management mechanism suitable for middle and background development
@@ -77,7 +32,7 @@ There are four basic templates, which are suitable for zero development and use,
 
    
 
-2. install dependence, you can use cnpm or yarn in China
+2. install dependence via npm or yarn
 
    ```
    npm install
@@ -98,20 +53,3 @@ There are four basic templates, which are suitable for zero development and use,
    ```
    npm run build
    ```
-   
-## Partner project
-* [Thinker-Admin-Box - springboot with vue-admin-box, use java code to generate vue page](https://github.com/yirius/thinker-admin-box)
-* [H5-dooring - a low code project about the mobile website](http://h5.dooring.cn)
-* [ant-simple-pro - a middle website based on Vue3.0, react and angular](https://github.com/lgf196/ant-simple-pro)
-* [vue-vben-admin - a modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！](https://github.com/vbenjs/vue-vben-admin)
-
-
-## preview
-
-<p align="center">
-    <img src="http://blog.51weblove.com/wp-content/uploads/2021/08/QQ截图20210810174824.png">
-    <img src="http://blog.51weblove.com/wp-content/uploads/2021/08/QQ截图20210810174848.png">
-    <img src="http://blog.51weblove.com/wp-content/uploads/2021/08/QQ截图20210810174923.png">
-    <img src="http://blog.51weblove.com/wp-content/uploads/2021/08/QQ截图20210810174940.png">
-    <img src="http://blog.51weblove.com/wp-content/uploads/2021/08/QQ截图20210810175009.png">
-</p>
